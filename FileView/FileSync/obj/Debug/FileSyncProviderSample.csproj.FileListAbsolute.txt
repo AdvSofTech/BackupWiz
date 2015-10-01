@@ -1,0 +1,5 @@
+C:\Backup\FileSynch\C#\bin\Debug\FileSyncSample.exe
+C:\Backup\FileSynch\C#\bin\Debug\FileSyncSample.pdb
+C:\Backup\FileSynch\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup\FileSynch\C#\obj\Debug\FileSyncSample.exe
+C:\Backup\FileSynch\C#\obj\Debug\FileSyncSample.pdb

@@ -1,0 +1,5 @@
+C:\Backup\FileSynch\FileView\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup\FileSynch\FileView\bin\Debug\FileView.dll
+C:\Backup\FileSynch\FileView\bin\Debug\FileView.pdb
+C:\Backup\FileSynch\FileView\obj\Debug\FileView.dll
+C:\Backup\FileSynch\FileView\obj\Debug\FileView.pdb

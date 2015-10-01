@@ -1,0 +1,14 @@
+C:\Backup\FileSynch\BackupWiz\bin\Debug\BackupWiz.exe.config
+C:\Backup\FileSynch\BackupWiz\bin\Debug\BackupWiz.exe
+C:\Backup\FileSynch\BackupWiz\bin\Debug\BackupWiz.pdb
+C:\Backup\FileSynch\BackupWiz\bin\Debug\FileBrowser.dll
+C:\Backup\FileSynch\BackupWiz\bin\Debug\FileSync.dll
+C:\Backup\FileSynch\BackupWiz\bin\Debug\FileBrowser.pdb
+C:\Backup\FileSynch\BackupWiz\bin\Debug\FileSync.pdb
+C:\Backup\FileSynch\BackupWiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Backup\FileSynch\BackupWiz\obj\x86\Debug\BackupWiz.FormB.resources
+C:\Backup\FileSynch\BackupWiz\obj\x86\Debug\BackupWiz.Properties.Resources.resources
+C:\Backup\FileSynch\BackupWiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Backup\FileSynch\BackupWiz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Backup\FileSynch\BackupWiz\obj\x86\Debug\BackupWiz.exe
+C:\Backup\FileSynch\BackupWiz\obj\x86\Debug\BackupWiz.pdb

@@ -1,0 +1,35 @@
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\bin\Debug\FileBrowser.dll
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\FileBrowser.Browser.resources
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\ResGen.read.1.tlog
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\ResGen.write.1.tlog
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\FileBrowser.dll
+C:\SW Library\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\bin\Debug\FileBrowser.dll
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\FileBrowser.Browser.resources
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\ResGen.read.1.tlog
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\ResGen.write.1.tlog
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\FileBrowser.dll
+C:\SWLib\FileBrowser_folderview\FolderView\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\bin\Debug\FileBrowser.dll
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Browser.resources
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\obj\Debug\ResGen.read.1.tlog
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\obj\Debug\ResGen.write.1.tlog
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\obj\Debug\FileBrowser.dll
+C:\Backup\FileBrowserBackup\FileBrowser\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Backup\FileSynch\FileView\FileBrowser\bin\Debug\FileBrowser.dll
+C:\Backup\FileSynch\FileView\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Backup\FileSynch\FileView\FileBrowser\obj\Debug\FileBrowser.Browser.resources
+C:\Backup\FileSynch\FileView\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Backup\FileSynch\FileView\FileBrowser\obj\Debug\FileBrowser.dll
+C:\Backup\FileSynch\FileView\FileBrowser\obj\Debug\FileBrowser.pdb
+C:\Backup\FileSynch\FileView\FileBrowser\obj\Debug\FileBrowser.csprojResolveAssemblyReference.cache
+C:\Backup\FileSynch\FileView\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache

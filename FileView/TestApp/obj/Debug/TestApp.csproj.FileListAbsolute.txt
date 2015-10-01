@@ -1,0 +1,43 @@
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\bin\Debug\TestApp.exe
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\bin\Debug\TestApp.pdb
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\bin\Debug\FileBrowser.dll
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\bin\Debug\FileBrowser.pdb
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\obj\Debug\TestApp.FileBrowserTest.resources
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\obj\Debug\ResGen.read.1.tlog
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\obj\Debug\ResGen.write.1.tlog
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\obj\Debug\TestApp.exe
+C:\SW Library\FileBrowser_folderview\FolderView\TestApp\obj\Debug\TestApp.pdb
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\obj\Debug\TestApp.exe
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\obj\Debug\TestApp.pdb
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\bin\Debug\TestApp.exe
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\bin\Debug\TestApp.pdb
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\bin\Debug\FileBrowser.dll
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\bin\Debug\FileBrowser.pdb
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\obj\Debug\TestApp.FileBrowserTest.resources
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\obj\Debug\ResGen.read.1.tlog
+C:\SWLib\FileBrowser_folderview\FolderView\TestApp\obj\Debug\ResGen.write.1.tlog
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\obj\Debug\TestApp.exe
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\obj\Debug\TestApp.pdb
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\bin\Debug\TestApp.exe
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\bin\Debug\TestApp.pdb
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\bin\Debug\FileBrowser.dll
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\bin\Debug\FileBrowser.pdb
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\obj\Debug\TestApp.FileBrowserTest.resources
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\obj\Debug\ResGen.read.1.tlog
+C:\Backup\FileBrowserBackup\FileBrowser\TestApp\obj\Debug\ResGen.write.1.tlog
+C:\Backup\FileSynch\FileView\TestApp\obj\Debug\TestApp.exe
+C:\Backup\FileSynch\FileView\TestApp\obj\Debug\TestApp.pdb
+C:\Backup\FileSynch\FileView\TestApp\bin\Debug\TestApp.exe
+C:\Backup\FileSynch\FileView\TestApp\bin\Debug\TestApp.pdb
+C:\Backup\FileSynch\FileView\TestApp\bin\Debug\FileBrowser.dll
+C:\Backup\FileSynch\FileView\TestApp\bin\Debug\FileBrowser.pdb
+C:\Backup\FileSynch\FileView\TestApp\obj\Debug\TestApp.FileBrowserTest.resources
+C:\Backup\FileSynch\FileView\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Backup\FileSynch\FileView\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Backup\FileSynch\FileView\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache

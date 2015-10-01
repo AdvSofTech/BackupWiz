@@ -1,0 +1,15 @@
+C:\Backup\FileSynch\C#\obj\Debug\FileSyncSample.exe
+C:\Backup\FileSynch\C#\obj\Debug\FileSyncSample.pdb
+C:\Backup\FileSynch\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup\FileSynch\C#\bin\Debug\FileSyncSample.exe
+C:\Backup\FileSynch\C#\bin\Debug\FileSyncSample.pdb
+C:\Backup\FileSynch\FileSync\bin\Debug\FileSync.dll
+C:\Backup\FileSynch\FileSync\bin\Debug\FileSync.pdb
+C:\Backup\FileSynch\FileSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup\FileSynch\FileSync\obj\Debug\FileSync.dll
+C:\Backup\FileSynch\FileSync\obj\Debug\FileSync.pdb
+C:\Backup\FileSynch\FileView\FileSync\bin\Debug\FileSync.dll
+C:\Backup\FileSynch\FileView\FileSync\bin\Debug\FileSync.pdb
+C:\Backup\FileSynch\FileView\FileSync\obj\Debug\FileSync.dll
+C:\Backup\FileSynch\FileView\FileSync\obj\Debug\FileSync.pdb
+C:\Backup\FileSynch\FileView\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache

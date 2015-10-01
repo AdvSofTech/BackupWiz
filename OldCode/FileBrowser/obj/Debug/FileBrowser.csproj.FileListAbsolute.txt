@@ -1,0 +1,9 @@
+C:\Backup\FileSynch\FileBrowser\bin\Debug\FileBrowser.dll
+C:\Backup\FileSynch\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Backup\FileSynch\FileBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup\FileSynch\FileBrowser\obj\Debug\FileBrowser.Browser.resources
+C:\Backup\FileSynch\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Backup\FileSynch\FileBrowser\obj\Debug\GenerateResource.read.1.tlog
+C:\Backup\FileSynch\FileBrowser\obj\Debug\GenerateResource.write.1.tlog
+C:\Backup\FileSynch\FileBrowser\obj\Debug\FileBrowser.dll
+C:\Backup\FileSynch\FileBrowser\obj\Debug\FileBrowser.pdb
